@@ -1,0 +1,14 @@
+/home/uray10/Downloads/seqTagFinder/seqTagFinder-main/target/debug/deps/clang_sys-8a9fc76d7f52117c.d: /home/uray10/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clang-sys-1.8.1/src/lib.rs /home/uray10/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clang-sys-1.8.1/src/support.rs /home/uray10/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clang-sys-1.8.1/src/link.rs /home/uray10/Downloads/seqTagFinder/seqTagFinder-main/target/debug/build/clang-sys-7d4a2c6a019cfbec/out/macros.rs /home/uray10/Downloads/seqTagFinder/seqTagFinder-main/target/debug/build/clang-sys-7d4a2c6a019cfbec/out/common.rs /home/uray10/Downloads/seqTagFinder/seqTagFinder-main/target/debug/build/clang-sys-7d4a2c6a019cfbec/out/dynamic.rs
+
+/home/uray10/Downloads/seqTagFinder/seqTagFinder-main/target/debug/deps/libclang_sys-8a9fc76d7f52117c.rlib: /home/uray10/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clang-sys-1.8.1/src/lib.rs /home/uray10/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clang-sys-1.8.1/src/support.rs /home/uray10/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clang-sys-1.8.1/src/link.rs /home/uray10/Downloads/seqTagFinder/seqTagFinder-main/target/debug/build/clang-sys-7d4a2c6a019cfbec/out/macros.rs /home/uray10/Downloads/seqTagFinder/seqTagFinder-main/target/debug/build/clang-sys-7d4a2c6a019cfbec/out/common.rs /home/uray10/Downloads/seqTagFinder/seqTagFinder-main/target/debug/build/clang-sys-7d4a2c6a019cfbec/out/dynamic.rs
+
+/home/uray10/Downloads/seqTagFinder/seqTagFinder-main/target/debug/deps/libclang_sys-8a9fc76d7f52117c.rmeta: /home/uray10/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clang-sys-1.8.1/src/lib.rs /home/uray10/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clang-sys-1.8.1/src/support.rs /home/uray10/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clang-sys-1.8.1/src/link.rs /home/uray10/Downloads/seqTagFinder/seqTagFinder-main/target/debug/build/clang-sys-7d4a2c6a019cfbec/out/macros.rs /home/uray10/Downloads/seqTagFinder/seqTagFinder-main/target/debug/build/clang-sys-7d4a2c6a019cfbec/out/common.rs /home/uray10/Downloads/seqTagFinder/seqTagFinder-main/target/debug/build/clang-sys-7d4a2c6a019cfbec/out/dynamic.rs
+
+/home/uray10/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clang-sys-1.8.1/src/lib.rs:
+/home/uray10/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clang-sys-1.8.1/src/support.rs:
+/home/uray10/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clang-sys-1.8.1/src/link.rs:
+/home/uray10/Downloads/seqTagFinder/seqTagFinder-main/target/debug/build/clang-sys-7d4a2c6a019cfbec/out/macros.rs:
+/home/uray10/Downloads/seqTagFinder/seqTagFinder-main/target/debug/build/clang-sys-7d4a2c6a019cfbec/out/common.rs:
+/home/uray10/Downloads/seqTagFinder/seqTagFinder-main/target/debug/build/clang-sys-7d4a2c6a019cfbec/out/dynamic.rs:
+
+# env-dep:OUT_DIR=/home/uray10/Downloads/seqTagFinder/seqTagFinder-main/target/debug/build/clang-sys-7d4a2c6a019cfbec/out
